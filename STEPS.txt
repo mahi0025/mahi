@@ -1,4 +1,4 @@
-STEP:1 DOWNLOAD GIT
+STEP:1 DOWNLOAD GIT 6jyutnytnuj6i7k6ytnk5i
 			LINK: https://git-scm.com/downloads
 
 STEP: 2 CREATE ACCOUNT ON GIT HUB
